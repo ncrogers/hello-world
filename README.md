@@ -1,2 +1,3 @@
 # hello-world
-Noob 
+Greetings, people of Earth. 
+Take me to your leader. 
